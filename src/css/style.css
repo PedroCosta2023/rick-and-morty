@@ -16,7 +16,7 @@ header {
 
 .menu {
     display: flex;
-    justify-content: end;
+    justify-content: flex-end;
     gap: 31px;
     color: #333;
     align-items: center;
